@@ -1,6 +1,6 @@
 #-- coding: UTF-8 --
 # Sibermod.com cms system detect 1.0 
-#Coder BY Enes Çetinkaya 
+#Coded BY Enes Çetinkaya 
 
 import requests
 import argparse
@@ -32,7 +32,7 @@ def scan():
         print "  |_____/|_|_.__/ \___|_|  |_|  |_|\___/ \__,_|  \_____|_| |_| |_|___/ "
         
         print "Domain Veya Ip Adresi Giriniz"
-        print "Coder By Enes Cetinkaya -- SiberMod.com"
+        print "Coded By Enes Cetinkaya -- SiberMod.com"
         websiteToScan = raw_input('Hedef Giriniz: ')
     else:
         websiteToScan = args.site
